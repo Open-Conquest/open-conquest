@@ -1,0 +1,3 @@
+[submodule "open-conquest-auth"]
+	path = open-conquest-auth
+	url = https://github.com/Open-Conquest/open-conquest-auth.git
