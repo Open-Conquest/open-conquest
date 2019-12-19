@@ -1,1 +1,5 @@
 .DS_Store
+
+# local files that i don't need in the repo rn
+docker-compose.yml
+nginx/
