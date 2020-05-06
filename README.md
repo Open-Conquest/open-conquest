@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    Open Conquest is an open-source 4X MMO mobile game.
+    An open-source 4X MMO mobile game.
     <br>
     <a href="https://www.open-conquest.org/" target="_blank"><strong>Website</strong></a>
     ·
