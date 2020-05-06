@@ -4,6 +4,3 @@
 [submodule "open-conquest-ios"]
 	path = open-conquest-ios
 	url = https://github.com/Open-Conquest/open-conquest-ios.git
-[submodule "open-conquest-world-server"]
-	path = open-conquest-world-server
-	url = https://github.com/Open-Conquest/open-conquest-world-server.git
